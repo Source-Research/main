@@ -30,7 +30,3 @@ $ npm start
 [bisheng](https://github.com/benjycui/bisheng) | 让 markdown 文档转为 react 单页应用。没错，antd 的文档就是用的这个工具， 启动配置文件可见 `site/bisheng.config.js`
 
 
-
-
-
-
